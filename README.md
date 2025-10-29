@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm currently a CS PhD student from Michigan State University. My research interests lie in **relational machine learning on structured data** and **probabilistic generative models**. 
 
-I'm currently working on building the ecosystem of relational machine learning. Feel free to contact me if you are also interested. **In the past, I worked on graph foundation models (especially on text-attributed graphs) for a while, these related libraries won't be maintained any more. I don't recommend newcomers working on these settings and datasets.** 
+I'm currently working on building the ecosystem of relational machine learning. Feel free to contact me if you are also interested. **In the past, I worked on graph foundation models (especially on text-attributed graphs) for a while, these related libraries won't be maintained any more. I personally don't recommend newcomers working on these settings and datasets.** 
 
 ![](https://github.com/CurryTang/CurryTang/blob/master/roadmap.png), 
 
