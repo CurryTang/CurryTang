@@ -47,3 +47,4 @@ Currently working on new directions.
 * **Blog System:** [Backend Management](https://github.com/CurryTang/blog-system-backend-management), [Frontend](https://github.com/CurryTang/blog-system-frontend)
 * [Scheme Interpreter](https://github.com/StephenK1998/Scheme)
 * [QEMU-based Toy Operating System](https://github.com/CurryTang/JOS_Lab_SJTU)
+* [An Android controller-app](https://github.com/CurryTang/Android-Dual-Screen-Different-Display), you may use your mobile to control a screen remotely. 
