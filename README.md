@@ -8,6 +8,7 @@ I'm currently a CS PhD student at Michigan State University.
 Currently working on new directions.
 
 **Projects**
+* [Auto Reader](https://github.com/CurryTang/auto-researcher): Automatically paper reading and note taking
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
 
 **Writings**
