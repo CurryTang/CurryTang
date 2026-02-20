@@ -19,8 +19,9 @@ Currently working on new directions.
 
 * [AutoG: Towards automatic graph construction from tabular data](https://arxiv.org/abs/2402.02054) **Zhikai Chen**, Han Xie, Jian Zhang, Xiang Song, Jiliang Tang, Huzefa Rangwala, George Karypis; ICLR 2025 (poster) [Code](https://github.com/amazon-science/Automatic-Table-to-Graph-Generation)
 * [A Pre-training Framework for Relational Data with Information-theoretic Principles](https://arxiv.org/pdf/2507.09837) Quang Truong, **Zhikai Chen**, Mingxuan Ju, Tong Zhao, Neil Shah, Jiliang Tang, NeurIPS 2025
-* Relatron: Automating Relational Machine Learning over Relational Databases, ICLR 2026 **Zhikai Chen**, Han Xie, Jian Zhang, Jiliang Tang,  Xiang Song, Huzefa Rangwala (camera ready and code coming soon) 
-* Relational foundation model (a library and a pre-trained model, stealth mode)
+* Relatron: Automating Relational Machine Learning over Relational Databases, ICLR 2026 **Zhikai Chen**, Han Xie, Jian Zhang, Jiliang Tang,  Xiang Song, Huzefa Rangwala (camera ready and code coming soon)
+* RFMBench: Towards Principled Benchmarking of Relational Foundation Models [Paper](https://github.com/CurryTang/CurryTang/blob/master/papers/RFMBench.pdf)
+* Relational foundation model (stealth mode)
 
 ### 3. Graph Foundation Models and Large Language Models (2023-2025)
 
