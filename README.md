@@ -12,7 +12,7 @@ Currently working on new directions.
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
 
 **Writings**
-* [A tutorial on DL Infra (Chinese version)](https://publish.obsidian.md/zhikaichen/notes/Mlsys/MLSYS1)
+* [A tutorial on DL Infra (Chinese version)](https://currytang.github.io/MLSYS_tutorial)
 * [Notes on optimization](https://publish.obsidian.md/zhikaichen/notes/Optimization/Convergence+rate)
 
 ### 2. Relational Deep Learning (2025-present)
