@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a CS PhD student at Michigan State University.
+I'm currently a CS PhD student at Michigan State University. [My CV](https://github.com/CurryTang/CurryTang/blob/master/CV_zkchen.pdf)
 
 ## Research & Projects
 
