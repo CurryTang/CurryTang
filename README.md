@@ -8,7 +8,7 @@ I'm currently a CS PhD student at Michigan State University. [My CV](https://git
 Currently working on new directions.
 
 **Projects**
-* [Auto Reader](https://github.com/CurryTang/auto-researcher): Automatically paper reading and note taking
+* [Amadeus](https://github.com/CurryTang/Amadeus): AI-powered research assistant for paper discovery, reading, and analysis
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
 
 **Writings**
