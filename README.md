@@ -22,6 +22,7 @@ Currently working on new directions.
 ### 2. Relational Deep Learning (2025-present)
 
 * [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) **Zhikai Chen**, Junyu Yin, Jialiang Gu, Siheng Xiong, Xiaoze Liu, Ruowang Zhang, Keren Zhou, Kai Guo; arXiv 2026
+* [RFMBench: Towards Principled Benchmarking of Relational Foundation Models](https://github.com/CurryTang/CurryTang/blob/master/RFMBench%20(1).pdf) **Zhikai Chen**, Han Xie, Jian Zhang, Haiyang Yu, Huzefa Rangwala, Xiang Song; preprint 2026
 * [AutoG: Towards automatic graph construction from tabular data](https://arxiv.org/abs/2402.02054) **Zhikai Chen**, Han Xie, Jian Zhang, Xiang Song, Jiliang Tang, Huzefa Rangwala, George Karypis; ICLR 2025 (poster) [Code](https://github.com/amazon-science/Automatic-Table-to-Graph-Generation)
 * [A Pre-training Framework for Relational Data with Information-theoretic Principles](https://arxiv.org/pdf/2507.09837) Quang Truong, **Zhikai Chen**, Mingxuan Ju, Tong Zhao, Neil Shah, Jiliang Tang, NeurIPS 2025
 * Relatron: Automating Relational Machine Learning over Relational Databases, ICLR 2026 **Zhikai Chen**, Han Xie, Jian Zhang, Jiliang Tang,  Xiang Song, Huzefa Rangwala [Paper](https://openreview.net/forum?id=59avbH4HnU) [Code](https://github.com/amazon-science/Automating-Relational-Machine-Learning)
