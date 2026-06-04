@@ -7,6 +7,10 @@ I'm currently a CS PhD student at Michigan State University. [My CV](https://git
 ### 1. DL Infra, Agent, Long Context Modeling (2026-present)
 Currently working on new directions.
 
+**Publications**
+* [Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline](https://arxiv.org/abs/2606.04315) **Zhikai Chen**, Jialiang Gu, Junyu Yin, Xianxuan Long, Shenglai Zeng, Xiaoze Liu, Kai Guo, Keren Zhou, Jiliang Tang; arXiv 2026
+* [Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://arxiv.org/abs/2605.30152) Xiaoze Liu, Ruowang Zhang, Amir H. Abdi, Michel Galley, **Zhikai Chen**, Siheng Xiong, Xiaoqian Wang, Jing Gao; arXiv 2026
+
 **Projects**
 * [Amadeus](https://github.com/CurryTang/Amadeus): AI-powered research assistant for paper discovery, reading, and analysis
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
@@ -17,6 +21,7 @@ Currently working on new directions.
 
 ### 2. Relational Deep Learning (2025-present)
 
+* [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) **Zhikai Chen**, Junyu Yin, Jialiang Gu, Siheng Xiong, Xiaoze Liu, Ruowang Zhang, Keren Zhou, Kai Guo; arXiv 2026
 * [AutoG: Towards automatic graph construction from tabular data](https://arxiv.org/abs/2402.02054) **Zhikai Chen**, Han Xie, Jian Zhang, Xiang Song, Jiliang Tang, Huzefa Rangwala, George Karypis; ICLR 2025 (poster) [Code](https://github.com/amazon-science/Automatic-Table-to-Graph-Generation)
 * [A Pre-training Framework for Relational Data with Information-theoretic Principles](https://arxiv.org/pdf/2507.09837) Quang Truong, **Zhikai Chen**, Mingxuan Ju, Tong Zhao, Neil Shah, Jiliang Tang, NeurIPS 2025
 * Relatron: Automating Relational Machine Learning over Relational Databases, ICLR 2026 **Zhikai Chen**, Han Xie, Jian Zhang, Jiliang Tang,  Xiang Song, Huzefa Rangwala [Paper](https://openreview.net/forum?id=59avbH4HnU) [Code](https://github.com/amazon-science/Automating-Relational-Machine-Learning)
