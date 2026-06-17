@@ -29,8 +29,6 @@ Currently working on new directions.
 
 ### 3. Graph Foundation Models and Large Language Models (2023-2025)
 
-> **Note:** In the past, I worked on graph foundation models (especially on text-attributed graphs) for a while, these related libraries won't be maintained any more. I personally don't recommend newcomers working on these settings and datasets.
-
 * [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024 [[Paper lists](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)]; ICML 2024 (Spotlight); * means equal contribution
 * [Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights](https://arxiv.org/abs/2406.10727) **Zhikai Chen**, Haitao Mao, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/TSGFM); NeurIPS 2024 Datasets and Benchmarks Track (poster)
 * Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
