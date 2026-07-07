@@ -9,6 +9,8 @@ Currently working on new directions.
 
 **Publications**
 * [Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline](https://arxiv.org/abs/2606.04315) **Zhikai Chen**, Jialiang Gu, Junyu Yin, Xianxuan Long, Shenglai Zeng, Xiaoze Liu, Kai Guo, Keren Zhou, Jiliang Tang; arXiv 2026
+* [MemTrace: Probing What Final Accuracy Misses in Long-Term Memory](https://arxiv.org/pdf/2606.17328)
+Xianxuan Long, **Zhikai Chen**, Shenglai Zeng, Shouren Wang, Kai Guo, Jiliang Tang
 * [Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://arxiv.org/abs/2605.30152) Xiaoze Liu, Ruowang Zhang, Amir H. Abdi, Michel Galley, **Zhikai Chen**, Siheng Xiong, Xiaoqian Wang, Jing Gao; arXiv 2026
 
 **Projects**
