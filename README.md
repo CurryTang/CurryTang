@@ -2,7 +2,7 @@
 
 I'm currently a CS PhD student at Michigan State University. [My CV](https://github.com/CurryTang/CurryTang/blob/master/CV_zkchen.pdf)
 
-## Research & Projects
+## Research & Projects (Selected)
 
 ### 1. DL Infra, Agent, Long Context Modeling (2026-present)
 Currently working on new directions.
