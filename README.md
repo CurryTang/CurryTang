@@ -14,7 +14,7 @@ Currently working on new directions.
 **Projects**
 * [Amadeus](https://github.com/CurryTang/Amadeus): AI-powered research assistant for paper discovery, reading, and analysis
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
-* [Interview Preparation](https://github.com/CurryTang/interview-preparation)
+* [Awesome Interview Preparation](https://github.com/CurryTang/interview-preparation)
 * [Notes on optimization](https://publish.obsidian.md/zhikaichen/notes/Optimization/Convergence+rate)
 
 ### 2. Relational Deep Learning (2025-present)
