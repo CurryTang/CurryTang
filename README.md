@@ -16,7 +16,7 @@ Xianxuan Long, **Zhikai Chen**, Shenglai Zeng, Shouren Wang, Kai Guo, Jiliang Ta
 **Projects**
 * [Amadeus](https://github.com/CurryTang/Amadeus): AI-powered research assistant for paper discovery, reading, and analysis
 * [Slack GPU Monitor](https://github.com/CurryTang/slack-gpu-monitor): A slack bot to manage your server's GPU.
-* [Awesome Interview Preparation](https://github.com/CurryTang/interview-preparation)
+* [Awesome Interview Preparation](https://github.com/CurryTang/mlphdinterview)
 * [Notes on optimization](https://publish.obsidian.md/zhikaichen/notes/Optimization/Convergence+rate)
 
 ### 2. Relational Deep Learning (2025-present)
