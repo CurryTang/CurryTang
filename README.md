@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a CS PhD student at Michigan State University. [My CV](https://github.com/CurryTang/CurryTang/blob/master/CV_zkchen.pdf)
+I'm currently a CS PhD student at Michigan State University. [My CV](https://github.com/CurryTang/CurryTang/blob/master/CV_zkchen.pdf) I am currently on the job market. Feel free to contact if you want to find some one working on agent post training, agent security, or predictive intellience. 
 
 ## Research & Projects (Selected)
 
