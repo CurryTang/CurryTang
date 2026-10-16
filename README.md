@@ -8,6 +8,7 @@ I'm currently a CS PhD student at Michigan State University. [My CV](https://git
 Currently working on new directions.
 
 **Publications**
+* RedCurriculum: A Curriculum-Trained Red-Teamer for Frontier LLM Agents
 * [Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline](https://arxiv.org/abs/2606.04315) **Zhikai Chen**, Jialiang Gu, Junyu Yin, Xianxuan Long, Shenglai Zeng, Xiaoze Liu, Kai Guo, Keren Zhou, Jiliang Tang; IJCNLP-AACL 2026 (main)
 * [MemTrace: Probing What Final Accuracy Misses in Long-Term Memory](https://arxiv.org/pdf/2606.17328)
 Xianxuan Long, **Zhikai Chen**, Shenglai Zeng, Shouren Wang, Kai Guo, Jiliang Tang
